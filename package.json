@@ -1,0 +1,19 @@
+{
+  "name": "discord-play",
+  "version": "1.0.0",
+  "description": "Discord experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enderv",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "discord.js": "^11.3.2",
+    "eslint": "^4.19.1",
+    "pubg-api-redis": "^3.7.0",
+    "request-promise": "^4.2.2",
+    "underscore": "^1.8.3"
+  }
+}
